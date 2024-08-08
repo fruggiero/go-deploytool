@@ -1,0 +1,8 @@
+{
+  "Config": {
+    "Feeds": {
+      "speciali": "https://svr-nuget:8625/nuget/speciali/",
+      "standard": "https://svr-nuget:8625/nuget/standard/"
+    }
+  }
+}
